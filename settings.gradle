@@ -8,4 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MyWanAndroid"
 include ':app'
-includeBuild("../VersionPluginLib/VersionPlugin_MyMVVMHabit")
+//includeBuild("../VersionPluginLib/VersionPlugin_MyMVVMHabit")
